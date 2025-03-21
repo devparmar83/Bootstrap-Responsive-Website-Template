@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.carousel-inner img {
+  width: 100%;
+  height: 100vh;
+}
+.container ul li {
+  font-weight: 900;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.m-auto {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.text {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
